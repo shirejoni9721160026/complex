@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93e61a10-9726-455c-95da-fbb6d43592b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kmTxi9w9KPmGE95eovEvJjvjoS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nginx" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e61a10-9726-455c-95da-fbb6d43592b8" name="Default Changelist" comment="" />
+      <created>1606305023519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606305023519</updated>
+      <workItem from="1606305028784" duration="7879000" />
+      <workItem from="1606368967899" duration="1000" />
+      <workItem from="1606369452782" duration="64000" />
+      <workItem from="1606369536063" duration="50000" />
+      <workItem from="1606370353410" duration="31000" />
+      <workItem from="1606370406697" duration="1243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="124" y="215" width="800" height="684" key="#Deployment" timestamp="1606308225938">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="124" y="215" width="800" height="684" key="#Deployment/66.27.1854.1053@66.27.1854.1053" timestamp="1606308225938" />
+    <state x="104" y="220" width="800" height="719" key="#Plugins" timestamp="1606310863431">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="104" y="220" width="800" height="719" key="#Plugins/66.27.1854.1053@66.27.1854.1053" timestamp="1606310863431" />
+    <state x="536" y="237" width="546" height="468" key="#Vim_Emulation" timestamp="1606309234793">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="536" y="237" width="546" height="468" key="#Vim_Emulation/66.27.1854.1053@66.27.1854.1053" timestamp="1606309234793" />
+    <state x="402" y="282" width="646" height="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606370952820">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="402" y="282" width="646" height="413" key="#com.intellij.fileTypes.FileTypeChooser/66.27.1854.1053@66.27.1854.1053" timestamp="1606370952820" />
+    <state x="238" y="143" width="1022" height="737" key="SettingsEditor" timestamp="1606330366476">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="238" y="143" width="1022" height="737" key="SettingsEditor/66.27.1854.1053@66.27.1854.1053" timestamp="1606330366476" />
+    <state width="498" height="448" key="SwitcherDM" timestamp="1606370598863">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="498" height="448" key="SwitcherDM/66.27.1854.1053@66.27.1854.1053" timestamp="1606370598863" />
+    <state x="369" y="449" width="320" height="215" key="WebDeployment.AddServerDialog.v.1" timestamp="1606305108447">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="369" y="449" width="320" height="215" key="WebDeployment.AddServerDialog.v.1/66.27.1854.1053@66.27.1854.1053" timestamp="1606305108447" />
+    <state x="425" y="239" width="198" height="642" key="ftp.server.browser" timestamp="1606306260242">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="425" y="239" width="198" height="642" key="ftp.server.browser/66.27.1854.1053@66.27.1854.1053" timestamp="1606306260242" />
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1606369586809">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup/66.27.1854.1053@66.27.1854.1053" timestamp="1606369586809" />
+  </component>
+</project>
