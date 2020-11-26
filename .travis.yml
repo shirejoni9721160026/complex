@@ -19,3 +19,15 @@ after_sucess:
   - docker push hashna/multi-nginx
   - docker push hashna/multi-server
   - docker push hashna/multi-worker
+deploy:
+  provider: elasticbeanstalk
+  region: us-east-2
+  app: multi-docker
+  env: MultiDocker-env
+  bucket_name: elasticbeanstalk-us-east-2-409686864259
+  bucket_path: docker-multi
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key:
+    secure:  $AWS_SECRET_KEY
