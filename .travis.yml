@@ -1,0 +1,21 @@
+sudo: required
+services:
+  - docker
+
+before_install:
+  - docker build -t hashna/react-test -f ./client/Dockerfile.dev ./client
+
+script:
+  - docker run hashna/react-test npm test -- --coverage
+
+after_sucess:
+  - docker build -t hashna/multi-client ./client
+  - docker build -t hashna/multi-nginx ./nginx
+  - docker build -t hashna/multi-server ./server
+  - docker build -t hashna/multi-worker ./worker
+  # Take those images and push them to docker hub
+  - echo "$DOCKER_PASSWORD" | docker -login -u "$DOCKER_ID" --password-stdin
+  - docker push hashna/multi-client
+  - docker push hashna/multi-nginx
+  - docker push hashna/multi-server
+  - docker push hashna/multi-worker
